@@ -1,6 +1,6 @@
 # OSCP Prep Checklist
 ### By Jeff Barron 
-
+*I failed the OSCP. Then I fixed my prep and aced it. This is the checklist that made the difference.*
 ---
 
 ## 📊 Exam Structure
