@@ -446,3 +446,7 @@ If yes: **Book it. You're ready.**
 *Good luck. Trust your prep. You've got this.*
 
 — Jeff
+
+---
+
+*I write about offensive security and AI at [Cred Relay](https://www.credrelay.com).*
